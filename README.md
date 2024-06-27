@@ -1,2 +1,0 @@
-  #  projeto-criativo
-  projeto criativo
